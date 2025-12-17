@@ -1,2 +1,2 @@
 # 100-days-devops-kodekloud
-Daily hands-on DevOps tasks from the 100 Days DevOps Challenge by KodeKloud, documented as a real-world learning portfolio.
+This repository documents my progress through the 100 Days DevOps Challenge by KodeKloud, where I complete one hands-on DevOps task per day using real tools and real workflows.
