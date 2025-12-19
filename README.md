@@ -1,7 +1,7 @@
 # 100-days-devops-kodekloud
 This repository documents my progress through the 100 Days DevOps Challenge by KodeKloud, where I complete one hands-on DevOps task per day using real tools and real workflows.
 
-## 📅 Daily Progress
+## Daily Progress
 
 | Day | Topic | Key Area | Link |
 |----|------|----------|------|
@@ -11,4 +11,7 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 04 | Grant Execute Permission to a Script | Linux / File Permissions | [View](Day-04/README.md) |
 | Day 05 | Install and Permanently Disable SELinux | Linux / Security | [View](Day-05/README.md) |
 | Day 06 | Configure a Sample Cron Job | Linux / Automation | [View](Day-06/README.md) |
+| Day 07 | Linux SSH Authentication | Linux / Automation | [View](Day-07/README.md) |
+| Day 08 | Install Ansible | Configuration Management | [View](Day-08/README.md) |
+| Day 09 | MariaDB Troubleshooting | [View](Day-09/README.md) |
 
