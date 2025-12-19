@@ -13,5 +13,5 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 06 | Configure a Sample Cron Job | Linux / Automation | [View](Day-06/README.md) |
 | Day 07 | Linux SSH Authentication | Linux / Automation | [View](Day-07/README.md) |
 | Day 08 | Install Ansible | Configuration Management | [View](Day-08/README.md) |
-| Day 09 | MariaDB Troubleshooting | [View](Day-09/README.md) |
+| Day 09 | MariaDB Troubleshooting | Database  | [View](Day-09/README.md) |
 
