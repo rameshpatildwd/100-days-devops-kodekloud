@@ -14,4 +14,6 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 07 | Linux SSH Authentication | Linux / Automation | [View](Day-07/README.md) |
 | Day 08 | Install Ansible | Configuration Management | [View](Day-08/README.md) |
 | Day 09 | MariaDB Troubleshooting | Database  | [View](Day-09/README.md) |
+| Day 10 | Website Backup Automation Using Bash Script | Bash Script  | [View](Day-10/README.md) |
+| Day 11 | Install and Configure Tomcat Server | App Server  | [View](Day-10/README.md) |
 
