@@ -1,7 +1,7 @@
 #!/bin/bash
 
 LB_IP="172.16.238.14"
-PORT="8086"
+PORT="6000"
 
 # Install & start iptables service
 yum install -y iptables-services

@@ -39,3 +39,8 @@ http://stapp01:6000
 
 ---
 
+## Key Learnings
+- iptables-services is required to persist firewall rules across reboots
+- Rule order is critical when allowing and denying traffic on the same port
+- Explicit DROP rules improve security by blocking unintended access
+- Always validate firewall changes from the client source, not just locally
