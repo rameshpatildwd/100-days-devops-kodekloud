@@ -1,4 +1,4 @@
-# Day 14 – Execution Steps (Commands Used)
+# Day 15 – Execution Steps (Commands Used)
 
 ```bash
 # Login to jump host
