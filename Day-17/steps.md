@@ -1,7 +1,7 @@
 # Day 17 – Execution Steps (Commands Used)
 
 ```bash
-# Login to jump host
+# Login to jump host.
 ssh thor@jumphost
 
 # Connect to Database Server
