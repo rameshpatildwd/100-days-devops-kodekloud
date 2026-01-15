@@ -11,9 +11,19 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 04 | Grant Execute Permission to a Script | Linux / File Permissions | [View](Day-04/README.md) |
 | Day 05 | Install and Permanently Disable SELinux | Linux / Security | [View](Day-05/README.md) |
 | Day 06 | Configure a Sample Cron Job | Linux / Automation | [View](Day-06/README.md) |
-| Day 07 | Linux SSH Authentication | Linux / Automation | [View](Day-07/README.md) |
+| Day 07 | Linux SSH Authentication | Linux / Security | [View](Day-07/README.md) |
 | Day 08 | Install Ansible | Configuration Management | [View](Day-08/README.md) |
-| Day 09 | MariaDB Troubleshooting | Database  | [View](Day-09/README.md) |
-| Day 10 | Website Backup Automation Using Bash Script | Bash Script  | [View](Day-10/README.md) |
-| Day 11 | Install and Configure Tomcat Server | App Server  | [View](Day-10/README.md) |
+| Day 09 | MariaDB Troubleshooting | Database | [View](Day-09/README.md) |
+| Day 10 | Website Backup Automation Using Bash Script | Bash / Automation | [View](Day-10/README.md) |
+| Day 11 | Install and Configure Tomcat Server | Application Server | [View](Day-11/README.md) |
+| Day 12 | Linux Network Services Troubleshooting | Networking | [View](Day-12/README.md) |
+| Day 13 | IPtables Installation and Configuration | Linux / Security | [View](Day-13/README.md) |
+| Day 14 | Linux Process Troubleshooting | Linux / Operations | [View](Day-14/README.md) |
+| Day 15 | Setup SSL for Nginx | Web Server / Security | [View](Day-15/README.md) |
+| Day 16 | Configure Nginx as Load Balancer | Load Balancing | [View](Day-16/README.md) |
+| Day 17 | Install and Configure PostgreSQL | Database | [View](Day-17/README.md) |
+| Day 18 | Configure LAMP Stack | Web / Database | [View](Day-18/README.md) |
+| Day 19 | Install and Configure Web Application | Web Server | [View](Day-19/README.md) |
+| Day 20 | Nginx + PHP-FPM Using Unix Socket | Web / Application Runtime | [View](Day-20/README.md) |
+
 
