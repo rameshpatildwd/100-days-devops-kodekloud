@@ -29,5 +29,5 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 22 | Clone Git Repository on Storage Server | Git / Version Control | [View](Day-22-Clone-Git-Repository-On-Storage-Server/README.md) |
 | Day 23 | Fork a Git Repository | Git / Collaboration | [View](Day-23-Fork-a-Git-Repository/README.md) |
 | Day 24 | Create Git Branch from Master | Git / Branching | [View](Day-24-Git-Create-Branches/README.md) |
-| Day 25 | Git Branch, Commit, Merge, and Push Workflow | Git / Version Control | [View](Day-25-Git-Branch-Commit-Merge-Push/README.md) |
+| Day 25 | Git Branch, Commit, Merge, and Push Workflow | Git / Version Control | [View](Day-25-Git-Merge-Branches/README.md) |
 
