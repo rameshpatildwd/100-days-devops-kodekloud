@@ -25,5 +25,9 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 18 | Configure LAMP Stack | Web / Database | [View](Day-18/README.md) |
 | Day 19 | Install and Configure Web Application | Web Server | [View](Day-19/README.md) |
 | Day 20 | Nginx + PHP-FPM Using Unix Socket | Web / Application Runtime | [View](Day-20/README.md) |
-
+| Day 21 | Set Up Git Repository on Storage Server | Git / Version Control | [View](Day-21-Set-Up-Git-Repository-on-Storage-Server/README.md) |
+| Day 22 | Clone Git Repository on Storage Server | Git / Version Control | [View](Day-22-Clone-Git-Repository-On-Storage-Server/README.md) |
+| Day 23 | Fork a Git Repository | Git / Collaboration | [View](Day-23-Fork-a-Git-Repository/README.md) |
+| Day 24 | Create Git Branch from Master | Git / Branching | [View](Day-24-Git-Create-Branches/README.md) |
+| Day 25 | Git Branch, Commit, Merge, and Push Workflow | Git / Version Control | [View](Day-25-Git-Branch-Commit-Merge-Push/README.md) |
 
