@@ -30,4 +30,8 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 23 | Fork a Git Repository | Git / Collaboration | [View](Day-23-Fork-a-Git-Repository/README.md) |
 | Day 24 | Create Git Branch from Master | Git / Branching | [View](Day-24-Git-Create-Branches/README.md) |
 | Day 25 | Git Branch, Commit, Merge, and Push Workflow | Git / Version Control | [View](Day-25-Git-Merge-Branches/README.md) |
-
+| Day 26 | Git Manage Remotes | Git / Version Control | [View](Day-26-Git-Manage-Remotes/README.md) |
+| Day 27 | Git Revert Some Changes | Git / Version Control | [View](Day-27-Git-Revert-Some-Changes/README.md) |
+| Day 28 | Git Cherry Pick | Git / Version Control | [View](Day-28-Git-Cherry-Pick/README.md) |
+| Day 29 | Manage Git Pull Requests | Git / Collaboration | [View](Day-29-Manage-Git-Pull-Requests/README.md) |
+| Day 30 | Git Hard Reset | Git / Version Control | [View](Day-30-Git-hard-reset/README.md) |
