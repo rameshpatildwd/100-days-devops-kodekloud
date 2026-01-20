@@ -35,3 +35,13 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 28 | Git Cherry Pick | Git / Version Control | [View](Day-28-Git-Cherry-Pick/README.md) |
 | Day 29 | Manage Git Pull Requests | Git / Collaboration | [View](Day-29-Manage-Git-Pull-Requests/README.md) |
 | Day 30 | Git Hard Reset | Git / Version Control | [View](Day-30-Git-hard-reset/README.md) |
+| Day 31 | Git Stash | Git / Version Control | [View](Day-31-Git-Stash/README.md) |
+| Day 32 | Git Rebase | Git / Version Control | [View](Day-32-Git-Rebase/README.md) |
+| Day 33 | Resolve Git Merge Conflicts | Git / Collaboration | [View](Day-33-Resolve-Git-Merge-Conflicts/README.md) |
+| Day 34 | Git Hook | Git / Tags | [View](Day-34-Git-Hook/README.md) |
+| Day 35 | Install Docker Packages and Start Docker Service | Docker / Setup | [View](Day-35-Install-Docker-Packages-and-Start-Docker-Service/README.md) |
+| Day 36 | Deploy Nginx Container on Application Server | Docker / Containers | [View](Day-36-Deploy-Nginx-Container-on-Application-Server/README.md) |
+| Day 37 | Copy File to Docker Container | Docker / File Operations | [View](Day-37-Copy-File-to-Docker-Container/README.md) |
+| Day 38 | Pull Docker Image | Docker / Images | [View](Day-38-Pull-Docker-Image/README.md) |
+| Day 39 | Create a Docker Image From Container | Docker / Images | [View](Day-39-Create-a-Docker-Image-From-Container/README.md) |
+| Day 40 | Docker EXEC Operations | Docker / Runtime Operations | [View](Day-40-Docker-EXEC-Operations/README.md) |
