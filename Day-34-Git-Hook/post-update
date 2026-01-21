@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+echo "Starting post-update hook"
+
+for refname in "$@"
+do
+    if [[ "$refname" == "refs/heads/master" ]]; then
+        TODAY=$(date +%F)
+        git tag -a -f "release-$TODAY" master -m "Release for $TODAY"
+    fi
+done
+
+echo "Finished post-update hook"
+exit 0
