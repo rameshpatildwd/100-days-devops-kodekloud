@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "official",
+        "Id": "a98c5a27a06055c163f08e9bfaa570b9400f3f4e0a1f61384a119e5b275ff999",
+        "Created": "2026-01-23T05:50:31.785692942Z",
+        "Scope": "local",
+        "Driver": "macvlan",
+        "EnableIPv6": false,
+        "IPAM": {
+            "Driver": "default",
+            "Options": {},
+            "Config": [
+                {
+                    "Subnet": "10.10.1.0/24",
+                    "IPRange": "10.10.1.0/24"
+                }
+            ]
+        },
+        "Internal": false,
+        "Attachable": false,
+        "Ingress": false,
+        "ConfigFrom": {
+            "Network": ""
+        },
+        "ConfigOnly": false,
+        "Containers": {},
+        "Options": {
+            "parent": "eth0"
+        },
+        "Labels": {}
+    }
+]

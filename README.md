@@ -45,3 +45,10 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 38 | Pull Docker Image | Docker / Images | [View](Day-38-Pull-Docker-Image/README.md) |
 | Day 39 | Create a Docker Image From Container | Docker / Images | [View](Day-39-Create-a-Docker-Image-From-Container/README.md) |
 | Day 40 | Docker EXEC Operations | Docker / Runtime Operations | [View](Day-40-Docker-EXEC-Operations/README.md) |
+| Day 41 | Write a Dockerfile | Docker / Image Build | [View](Day-41-Write-a-Dockerfile/README.md) |
+| Day 42 | Create a Docker Network | Docker / Networking | [View](Day-42-Create-a-Docker-Network/README.md) |
+| Day 43 | Docker Port Mapping | Docker / Networking | [View](Day-43-Docker-Port-Mapping/README.md) |
+| Day 44 | Write a Docker Compose File | Docker / Compose | [View](Day-44-Write-a-Docker-Compose-File/README.md) |
+| Day 45 | Resolve Dockerfile Issues | Docker / Debugging | [View](Day-45-Resolve-Dockerfile-Issues/README.md) |
+| Day 46 | Deploy an App on Docker Containers | Docker / Compose Stack | [View](Day-46-Deploy-an-App-on-Docker-Containers/README.md) |
+| Day 47 | Docker Python App | Docker / Application Deployment | [View](Day-47-Docker-Python-App/README.md) |
