@@ -52,6 +52,6 @@ This repository documents my progress through the 100 Days DevOps Challenge by K
 | Day 45 | Resolve Dockerfile Issues | Docker / Debugging | [View](Day-45-Resolve-Dockerfile-Issues/README.md) |
 | Day 46 | Deploy an App on Docker Containers | Docker / Compose Stack | [View](Day-46-Deploy-an-App-on-Docker-Containers/README.md) |
 | Day 47 | Docker Python App | Docker / Application Deployment | [View](Day-47-Docker-Python-App/README.md) |
-| Day 48 | Deploy Pods in Kubernetes | Kubernetes / Pods | [View](Day-48-Deploy-Pods-in_Kubernetes/README.md) |
+| Day 48 | Deploy Pods in Kubernetes | Kubernetes / Pods | [View](Day-48-Deploy-Pods-in-Kubernetes/README.md) |
 | Day 49 | Deploy Applications with Kubernetes Deployments | Kubernetes / Deployments | [View](Day-49-Deploy-Applications-with-Kubernetes-Deployments/README.md) |
 | Day 50 | Set Resource Limits in Kubernetes Pods | Kubernetes / Resource Management | [View](Day-50-Set-Resource-Limits-in-Kubernetes-Pods/README.md) |
