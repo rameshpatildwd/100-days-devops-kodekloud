@@ -1,4 +1,4 @@
-# Day 49 – Deploy Pods in Kubernetes
+# Day 48 – Deploy Pods in Kubernetes
 
 ## Task / Requirement
 The DevOps team has started working with Kubernetes for application management. As part of the initial Kubernetes setup, a basic Pod needs to be created using the `httpd` image.
